@@ -5,10 +5,6 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 # For Android 
 ## 1. Splash Screen Assets
 
-With all of this in mind we’ll start with a a square image at three sizes
- - @1x = 200px
- - @2x = 400px
- - @3x = 600px.
 
 **Android:**
 	First of all the  `mipmap`  folders exist in  `android/app/src/main/res`  and each pixel density has a different density appended to the directory name. Here’s where images should go
